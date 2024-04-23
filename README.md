@@ -1,4 +1,3 @@
-# image-hosting-service
+# images
 
-图床，用于在文档中引用统一的图片地址。
-
+图床
